@@ -1,0 +1,16 @@
+Package: com.mineek.hidehomebar
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.mineek.hidehomebar_0.0.1_iphoneos-arm64.deb
+Size: 3052
+MD5sum: 667dc1f0e570fe0c8190fdd441b809af
+SHA1: 58c8d40696473dd7974139d8e3869761215fcb36
+SHA256: 51a72bd292006c815fd17078f9a8b2097ff749e7e8dd5fed60897a89915fc362
+Section: Tweaks
+Description: Hide the home bar present on newer iPhones
+Author: Mineek
+Name: HideHomeBar
+
