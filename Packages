@@ -30,3 +30,19 @@ Description: Hide the home bar present on newer iPhones
 Author: Mineek
 Name: HideHomeBar
 
+Package: com.mineek.ipaddock
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.mineek.ipaddock_0.0.1_iphoneos-arm64.deb
+Size: 3070
+MD5sum: e582b858e6f62cdefa5fc043944f17da
+SHA1: c01aa1e82e04ab1223421f01965dc7a500c41b3e
+SHA256: f89fd1c9fa086127980dc79e0f21652b7a6c276b64bf6f79a87eb267daccbce6
+Section: Tweaks
+Description: Get the iPad dock on your iPhone
+Author: Mineek
+Name: iPadDock
+
