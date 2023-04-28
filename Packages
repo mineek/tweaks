@@ -1,3 +1,19 @@
+Package: com.mineek.hideapplabels
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.mineek.hideapplabels_0.0.1_iphoneos-arm64.deb
+Size: 3050
+MD5sum: 09e4a99af0d6f19a34e670a983947254
+SHA1: 3a57bf9355b83e0e91204b4ec03435d1d3fd8af4
+SHA256: 9c5b7f17642421cfc003b56d37ef32868cefec7f9f637eae1e9992dba68d402a
+Section: Tweaks
+Description: Hide app labels on the homescreen for a cleaner look.
+Author: Mineek
+Name: HideAppLabels
+
 Package: com.mineek.hidehomebar
 Version: 0.0.1
 Architecture: iphoneos-arm64
