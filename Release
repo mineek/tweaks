@@ -1,0 +1,8 @@
+Architectures: iphoneos-arm64
+Codename: ios
+Components: main
+Description: My tweaks!
+Label: Mineek's Repo
+Origin: Mineek's Repo
+Suite: stable
+Version: 1.0
