@@ -57,3 +57,19 @@ Description: iocaste untether for iOS 9.3.5/6
 Author: staturnz
 Name: iocaste untether
 
+Package: dev.mineek.revokeblocker
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Filename: debs/dev.mineek.revokeblocker_1.0.0_iphoneos-arm64.deb
+Size: 1512
+MD5sum: 0df8f274f97a298e20beceb74b480ac3
+SHA1: f526ac2b8aea350e43c045e85082968aca1b83cb
+SHA256: dd6606906267c6d1e460acbb11a71c79c17a20f8ea36f0cce03bad4c72e80b0e
+Section: Tweaks
+Priority: optional
+Description: MAY NOT WORK, USE AT YOUR OWN RISK!! Blocks revoke, persists jailed.
+Tag: role::enduser
+Author: Mineek
+Name: RevokeBlocker
+
